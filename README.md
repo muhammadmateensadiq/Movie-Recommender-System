@@ -2,7 +2,6 @@
 
 A content-based movie recommendation system using the TMDB 5000 dataset. It suggests movies based on genres, keywords, cast, director, and overview.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A content-based movie recommendation system using the TMDB 5000 dataset. It sugg
 - Cosine similarity for recommendations.
 - Movie recommender returns top 5 similar titles.
 
----
 
 ## Dataset
 
@@ -20,7 +18,6 @@ Used datasets from TMDB:
 - `tmdb_5000_credits.csv`
 - `tmdb_5000_movies.csv`
 
----
 
 ## Technologies Used
 
@@ -30,7 +27,6 @@ Used datasets from TMDB:
 - **scikit-learn** for vectorization and similarity measures
 - **pickle** for model/data serialization
 
----
 
 ## How It Works
 
@@ -46,7 +42,6 @@ Used datasets from TMDB:
    - Input a movie title.
    - Get top 5 similar movies based on content.
 
----
 
 ## I’ve also created a Streamlit web app to demo this project.
 
