@@ -51,7 +51,7 @@ Try the Streamlit web app: [Live App](https://your-streamlit-link)
 
 ### GitHub Repo
 
-View the source code on GitHub: [GitHub Repo] (https://github.com/muhammadmateensadiq/Movie-Recommender-Web)
+View the source code on GitHub: [GitHub Repo](https://github.com/muhammadmateensadiq/Movie-Recommender-Web)
 
 ## Author
 Created by Muhammad Mateen Sadiq
