@@ -45,9 +45,9 @@ Used datasets from TMDB:
 
 ## I’ve also created a Streamlit web app to demo this project.
 
-### Live Demo
+<!-- ### Live Demo -->
 
-Try the Streamlit web app: [Live App](https://muhammadmateensadiq-movie-recommender-web-app-abs8uo.streamlit.app/)
+<!-- Try the Streamlit web app: [Live App]() -->
 
 ### GitHub Repo
 
